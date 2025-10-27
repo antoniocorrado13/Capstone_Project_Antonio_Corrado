@@ -1,5 +1,5 @@
 # Capstone_Project_Antonio_Corrado
-# 📊 Impatto del Lavoro da Remoto sulla Salute Mentale – Progetto Capstone Power BI
+# 📊 Impatto del Lavoro sulla Salute Mentale – Uno sguardo al lavoro da remoto
 
 # 📌 Panoramica del Progetto
 Questo progetto analizza un dataset, generato dall'intelligenza artificiale, contenente 5.000 dipendenti in tutto il mondo per esplorare la relazione tra il lavoro e il benessere mentale dei lavoratori.
