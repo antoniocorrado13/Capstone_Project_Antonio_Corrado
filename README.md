@@ -140,7 +140,6 @@ Un approccio data-driven al monitoraggio del benessere — come quello proposto 
 
 Le organizzazioni che investono in risorse di supporto mentale, programmi di coinvolgimento e strutture di supporto sono meglio posizionate per mantenere soddisfazione e fidelizzazione dei dipendenti nell’era del lavoro remoto.
 
-# 📂 Come Utilizzare Questo Repository
 # 📌 Dataset
 https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health
 
