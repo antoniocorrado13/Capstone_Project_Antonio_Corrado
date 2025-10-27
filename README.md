@@ -8,23 +8,29 @@ Inoltre, le modalità di lavoro da remoto e ibride sono ormai diventate una prat
 
 # 🖥️ Design del Report
 La dashboard è stata progettata per offrire una visione olistica della salute mentale dei dipendenti che lavorano in modalità remota e non.
+
 Include schede KPI interattive, grafici e filtri che consentono ai professionisti HR e ai decision-maker di analizzare segmenti specifici della forza lavoro.
 
 # I moduli presenti nel progetto:
 # ✅ Panoramica sui lavoratori
 I lavoratori sono 5.000 e si suddividono in lavoratori da remoto (1714), lavoratori in sede (1637) e lavoratori ibridi (1649), aventi una media d'età pari a 41 anni e una media di esperienza lavorativa pari a 18 anni.
+
 Inoltre, dal grafico a torta possiamo vedere che c'è una piccola maggioranza di forza lavoro femminile e una piccola maggioranza di lavoratori svolge il ruolo di Project Manager. Dagli altri grafici possiamo vedere invece come i lavoratori si distribuiscono per Settore Lavorativo e per Continente.
 
 # ✅ Salute e benessere dei dipendenti
 Questa pagina analizza la condizione di salute mentale e il benessere generale dei dipendenti, con particolare attenzione all’età e all’accesso alle risorse aziendali per la salute mentale.
+
 I KPI principali mostrano che circa la metà dei lavoratori non ha accesso a risorse dedicate, e che la fascia 45–54 anni registra sia i livelli di stress più alti, sia la peggiore qualità del sonno.
+
 I grafici comparativi evidenziano come: 
 - la prevalenza di ansia, burnout e depressione aumenti progressivamente con l’età, raggiungendo il picco tra i 45 e i 54 anni
 - la qualità del sonno segua un andamento inverso, migliorando nelle fasce più giovani e peggiorando tra i lavoratori più anziani.
+
 Infine, il grafico ad albero di scomposizione mostra la connessione tra età, tipo di lavoro, work-life balance, stress, attività fisica e isolamento sociale, fornendo una panoramica completa dei fattori che influenzano il benessere psicologico dei dipendenti.
 
 # ✅ Luogo di lavoro e salute mentale
 Questa sezione analizza come il tipo di luogo di lavoro (remoto, ibrido, in sede) influisce sul benessere psicologico, la produttività e le abitudini dei dipendenti.
+
 I KPI principali mostrano:
 - una media di 7,5 meeting settimanali per dipendente;
 - 39,6 ore lavorate a settimana in media;
@@ -41,6 +47,7 @@ Nel complesso, la pagina suggerisce che il lavoro da remoto potrebbe migliorare 
 
 # ✅ Insights su continenti e settore lavorativo
 Questa sezione esplora dapprima le differenze geografiche nel benessere dei lavoratori, mettendo a confronto i livelli di stress, qualità del sonno e condizione mentale tra i diversi continenti.
+
 I Top 3 indicatori evidenziano:
 - i livelli di stress più alti si registrano in Africa, Europa e Sud America;
 - la qualità del sonno più scarsa è concentrata in Asia, Europa e Oceania.
@@ -65,6 +72,7 @@ Dunque, la pagina mette in luce come il contesto professionale incida fortemente
 
 # ✅ Produttività e soddisfazione lavorativa
 Questa pagina analizza come la produttività dei dipendenti vari in base al settore lavorativo, al ruolo professionale e al luogo di lavoro (remoto, ibrido, in sede).
+
 I KPI principali mostrano:
 - il settore Retail come quello con la maggiore produttività, mentre il Finance registra i valori più bassi;
 - tra i ruoli, l’HR risulta il più produttivo, mentre i Project Manager riportano i cali più evidenti;
@@ -91,6 +99,7 @@ Nel complesso, la pagina evidenzia come la soddisfazione lavorativa sia influenz
 
 # ✅ L'impatto del lavoro da remoto
 Questa sezione approfondisce gli effetti del lavoro da remoto sul benessere, la produttività e la percezione del supporto aziendale dei dipendenti.
+
 I KPI principali mostrano che:
 - 1714 lavoratori (pari al 34,3% del totale) operano in modalità remota;
 - il livello medio di stress tra i lavoratori remoti è pari a 2 su 4, un valore moderato;
@@ -108,7 +117,9 @@ Nel complesso, la pagina evidenzia che il remote work porta benefici tangibili i
 
 # ✅ Conclusione
 La dashboard e l’analisi dimostrano che il lavoro da remoto non è universalmente positivo.
+
 Pur offrendo flessibilità, introduce sfide significative per la salute mentale.
+
 Le organizzazioni che investono in risorse di supporto mentale, programmi di coinvolgimento e strutture di supporto sono meglio posizionate per mantenere soddisfazione e fidelizzazione dei dipendenti nell’era del lavoro remoto.
 
 
@@ -117,6 +128,9 @@ Le organizzazioni che investono in risorse di supporto mentale, programmi di coi
 https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health
 
 # ✍️ Autore
+
 👤 Antonio Corrado
+
 📧 antonio_corrado@hotmail.it
+
 🔗 www.linkedin.com/in/antonio-corrado13
