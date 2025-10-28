@@ -1,15 +1,29 @@
 # Capstone_Project_Antonio_Corrado
 # 📊 Impatto del Lavoro sulla Salute Mentale – Uno sguardo al lavoro da remoto
 
+
+# 📌 Dataset
+https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health
+
 # 📌 Panoramica del Progetto
-Questo progetto analizza un dataset, generato dall'intelligenza artificiale, contenente 5.000 dipendenti in tutto il mondo per esplorare la relazione tra il lavoro e il benessere mentale dei lavoratori.
-L’obiettivo è ricavare insight utili che le organizzazioni possano utilizzare per creare politiche efficaci di supporto ai lavoratori.
-Inoltre, le modalità di lavoro da remoto e ibride sono ormai diventate una pratica standard in molti settori, offrendo ai dipendenti maggiore flessibilità e un migliore equilibrio tra vita privata e professionale. Tuttavia, questi modelli introducono anche sfide come l’aumento dello stress, l’isolamento sociale e problematiche legate alla salute mentale.
+Il progetto analizza un dataset, generato dall’intelligenza artificiale, composto da 5.000 dipendenti provenienti da tutto il mondo, con l’obiettivo di esplorare la relazione tra modalità di lavoro e benessere mentale.
+
+L’obiettivo principale è individuare pattern e insight utili per aiutare le organizzazioni a sviluppare politiche di supporto più efficaci, capaci di migliorare la produttività, la soddisfazione e la qualità della vita dei lavoratori.
+
+Negli ultimi anni, il lavoro da remoto e i modelli ibridi sono diventati pratiche comuni in molti settori, offrendo maggiore flessibilità e un migliore equilibrio tra vita privata e professionale. Tuttavia, queste modalità introducono anche nuove sfide: aumento dello stress, isolamento sociale e impatto sulla salute mentale.
+
+Attraverso un approccio data-driven, il progetto mira a comprendere in che modo fattori come età, ruolo, settore e ambiente di lavoro influenzino stress, produttività, sonno e soddisfazione personale, fornendo una base solida per interventi aziendali mirati e sostenibili.
 
 # 🖥️ Design del Report
+Ogni pagina accompagna l’utente in un percorso di comprensione graduale: dai dati demografici fino all’impatto del lavoro da remoto sul benessere psicologico e sulla produttività.
+
 La dashboard è stata progettata per offrire una visione olistica della salute mentale dei dipendenti che lavorano in modalità remota e non.
 
-Include schede KPI interattive, grafici e filtri che consentono ai professionisti HR e ai decision-maker di analizzare segmenti specifici della forza lavoro.
+Ogni elemento della dashboard è stato progettato per offrire immediatezza e leggibilità, con KPI principali ben evidenziati, filtri e visual coerenti che consentono ai professionisti HR e ai decision-maker di analizzare segmenti specifici della forza lavoro.
+
+Ogni pagina è indipendente ma collegata concettualmente alle altre, in modo da formare un racconto visivo coerente e fluido.
+
+L’obiettivo del design non è solo mostrare dati, ma raccontare una storia: quella di come le scelte organizzative e ambientali influenzano il benessere mentale dei lavoratori nel mondo moderno.
 
 # I moduli presenti nel progetto:
 # ✅ Panoramica sui lavoratori
@@ -139,9 +153,6 @@ La dashboard e l’analisi dimostrano che il lavoro da remoto non è universalme
 Un approccio data-driven al monitoraggio del benessere — come quello proposto in questa analisi — può guidare le aziende verso modelli di lavoro più sostenibili, moderni e umani.
 
 Le organizzazioni che investono in risorse di supporto mentale, programmi di coinvolgimento e strutture di supporto sono meglio posizionate per mantenere soddisfazione e fidelizzazione dei dipendenti nell’era del lavoro remoto.
-
-# 📌 Dataset
-https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health
 
 # ✍️ Autore
 
