@@ -1,15 +1,36 @@
 # Capstone_Project_Antonio_Corrado
 # 📊 Impatto del Lavoro sulla Salute Mentale – Uno sguardo al lavoro da remoto
 
-
-# 📌 Dataset
+## 📌 Dataset
 https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health
 
-# 🧰 Strumenti utilizzati
+## 🏢 Descrizione delle colonne:
+- Employee_ID – Identificatore univoco per ciascun dipendente sintetico
+- Age – Età modellizzata del dipendente
+- Gender – Rappresentazione simulata del genere
+- Job_Role – Ruolo lavorativo assegnato
+- Industry – Categoria industriale simulata
+- Region - Continente di appartenenza del lavoratore
+- Years_of_Experience - Gli anni di esperienza di ciascun lavoratore
+- Work_Location – Ambiente di lavoro: remoto, ibrido o in sede
+- Hours_Worked_Per_Week - Le ore passate al lavoro settimanalmente
+- Number_of_Virtual_Meetings - Il numero di riunioni virtuali a cui partecipano i lavoratori annualmente
+- Company_Support_for_Remote_Work -  Valutazione simulata (1-5) sul supporto aziendale per il lavoro da remoto
+- Stress_Level – Livello di stress modellizzato e auto-dichiarato (basso, medio, alto)
+- Mental_Health_Condition – Risposte sintetiche relative alle condizioni di salute mentale (ad es. ansia, depressione)
+- Access_to_Mental_Health_Resources - Se i lavoratori hanno accesso agli strumenti per la salute mentale (Yes - No)
+- Physical_Activity - La frequenza di attività fisica svolta dai lavoratori (Daily, Weekly, Nothing)
+- Sleep_Quality - La qualità del sonno (Scarsa, Media, Buona)
+- Social_Isolation_Rating – Valutazione simulata (1-5) sulla percezione dell'isolamento sul posto di lavoro
+- Satisfaction_with_Remote_Work – Soddisfazione modellizzata dei dipendenti rispetto al lavoro da remoto (soddisfatti, neutrali, insoddisfatti)
+- Work_Life_Balance_Rating - Il grado di equilibrio (1-5) tra la vita professionale e quella privata di una persona
+- Productivity_Change -  Misura la variazione nell'output (Crescente, Decrescente, Nessun Cambiamento)
+
+## 🧰 Strumenti utilizzati
 - Power BI – per la costruzione del report e la data visualization
 - Python e Power Query – per la pulizia e trasformazione dei dati
 
-# 📌 Panoramica del Progetto
+## 📌 Panoramica del Progetto
 Il progetto analizza un dataset, generato dall’intelligenza artificiale, composto da 5.000 dipendenti provenienti da tutto il mondo, con l’obiettivo di esplorare la relazione tra modalità di lavoro e benessere mentale.
 
 L’obiettivo principale è individuare pattern e insight utili per aiutare le organizzazioni a sviluppare politiche di supporto più efficaci, capaci di migliorare la produttività, la soddisfazione e la qualità della vita dei lavoratori.
@@ -18,7 +39,7 @@ Negli ultimi anni, il lavoro da remoto e i modelli ibridi sono diventati pratich
 
 Attraverso un approccio data-driven, il progetto mira a comprendere in che modo fattori come età, ruolo, settore e ambiente di lavoro influenzino stress, produttività, sonno e soddisfazione personale, fornendo una base solida per interventi aziendali mirati e sostenibili.
 
-# 🖥️ Design del Report
+## 🖥️ Design del Report
 Ogni pagina accompagna l’utente in un percorso di comprensione graduale: dai dati demografici fino all’impatto del lavoro da remoto sul benessere psicologico e sulla produttività.
 
 La dashboard è stata progettata per offrire una visione olistica della salute mentale dei dipendenti che lavorano in modalità remota e non.
@@ -30,12 +51,12 @@ Ogni pagina è indipendente ma collegata concettualmente alle altre, in modo da 
 L’obiettivo del design non è solo mostrare dati, ma raccontare una storia: quella di come le scelte organizzative e ambientali influenzano il benessere mentale dei lavoratori nel mondo moderno.
 
 # I moduli presenti nel progetto:
-# ✅ Panoramica sui lavoratori
+## ✅ Panoramica sui lavoratori
 I lavoratori sono 5.000 e si suddividono in lavoratori da remoto (1714), lavoratori in sede (1637) e lavoratori ibridi (1649), aventi una media d'età pari a 41 anni e una media di esperienza lavorativa pari a 18 anni.
 
 Inoltre, dal grafico a torta possiamo vedere che c'è una piccola maggioranza di forza lavoro femminile e una piccola maggioranza di lavoratori svolge il ruolo di Project Manager. Dagli altri grafici possiamo vedere invece come i lavoratori si distribuiscono per Settore Lavorativo e per Continente.
 
-# ✅ Salute e benessere dei dipendenti
+## ✅ Salute e benessere dei dipendenti
 Questa pagina analizza la condizione di salute mentale e il benessere generale dei dipendenti, con particolare attenzione all’età e all’accesso alle risorse aziendali per la salute mentale.
 
 I KPI principali mostrano che circa la metà dei lavoratori non ha accesso a risorse dedicate, e che la fascia 45–54 anni registra sia i livelli di stress più alti, sia la peggiore qualità del sonno.
@@ -46,7 +67,7 @@ I grafici comparativi evidenziano come:
 
 Infine, il grafico ad albero di scomposizione mostra la connessione tra età, tipo di lavoro, work-life balance, stress, attività fisica e isolamento sociale, fornendo una panoramica completa dei fattori che influenzano il benessere psicologico dei dipendenti.
 
-# ✅ Luogo di lavoro e salute mentale
+## ✅ Luogo di lavoro e salute mentale
 Questa sezione analizza come il tipo di luogo di lavoro (remoto, ibrido, in sede) influisce sul benessere psicologico, la produttività e le abitudini dei dipendenti.
 
 I KPI principali mostrano:
@@ -54,6 +75,8 @@ I KPI principali mostrano:
 - 39,6 ore lavorate a settimana in media;
 - un indice di supporto aziendale pari a 3,01 su 6, che indica una percezione moderata del sostegno fornito per il lavoro da remoto;
 - un livello medio di isolamento sociale di 2,99, che riflette un impatto percepito ma non estremo del remote work.
+
+Con l'aumentare delle ore lavorative, tende ad aumentare anche la percentuale di persone che soffrono di livelli elevati di stress. Lavorare per un numero eccessivo di ore può avere un impatto negativo sulla salute mentale, causando un aumento dello stress e potenzialmente il burnout. Un riposo adeguato e un equilibrio tra vita lavorativa e vita privata sono fondamentali per mantenere il benessere mentale.
 
 Nei grafici di dettaglio emergono alcune evidenze:
 - la condizione di salute mentale (ansia, burnout, depressione) risulta simile tra le diverse modalità di lavoro, ma leggermente migliore per i lavoratori remoti;
@@ -63,7 +86,7 @@ Nei grafici di dettaglio emergono alcune evidenze:
 
 Nel complesso, la pagina suggerisce che il lavoro da remoto potrebbe migliorare la condizione di salute mentale e la produttività del lavoratore, a patto che sia accompagnato da un adeguato supporto aziendale e da buone pratiche di comunicazione interna.
 
-# ✅ Insights su continenti e settore lavorativo
+## ✅ Insights su continenti e settore lavorativo
 Questa sezione esplora dapprima le differenze geografiche nel benessere dei lavoratori, mettendo a confronto i livelli di stress, qualità del sonno e condizione mentale tra i diversi continenti.
 
 I Top 3 indicatori evidenziano:
@@ -88,7 +111,7 @@ Nei grafici di dettaglio:
 
 Dunque, la pagina mette in luce come il contesto professionale incida fortemente sul benessere psicologico: i settori caratterizzati da elevata pressione lavorativa mostrano un impatto negativo su stress e sonno, mentre quelli orientati alla gestione sostenibile del lavoro tendono a favorire una migliore salute mentale.
 
-# ✅ Produttività e soddisfazione lavorativa
+## ✅ Produttività e soddisfazione lavorativa
 Questa pagina analizza come la produttività dei dipendenti vari in base al settore lavorativo, al ruolo professionale e al luogo di lavoro (remoto, ibrido, in sede).
 
 I KPI principali mostrano:
@@ -115,7 +138,7 @@ Nei grafici di dettaglio:
 
 Nel complesso, la pagina evidenzia come la soddisfazione lavorativa sia influenzata non solo dal tipo di mansione, ma anche dal grado di connessione sociale e supporto organizzativo, confermando che l’equilibrio tra autonomia e collaborazione è la chiave per il benessere professionale.
 
-# ✅ L'impatto del lavoro da remoto
+## ✅ L'impatto del lavoro da remoto
 Questa sezione approfondisce gli effetti del lavoro da remoto sul benessere, la produttività e la percezione del supporto aziendale dei dipendenti.
 
 I KPI principali mostrano che:
@@ -132,7 +155,7 @@ Nei grafici di dettaglio emerge che:
 
 Nel complesso, la pagina evidenzia che il remote work porta benefici tangibili in termini di equilibrio personale e produttività, ma necessita di un miglior supporto aziendale e di politiche di prevenzione dello stress per essere realmente sostenibile nel lungo periodo.
 
-# 🔍 Implicazioni dell’analisi
+## 🔍 Implicazioni dell’analisi
 Dall’analisi condotta emerge come il benessere dei lavoratori sia fortemente influenzato da una combinazione di fattori organizzativi, psicologici e ambientali.
 In particolare:
 - la fascia d’età 45–54 anni è la più esposta a stress elevato ed ha evidenziato la peggiore qualità del sonno;
@@ -140,7 +163,7 @@ In particolare:
 - i settori Finance, Healthcare e Retail mostrano maggiore vulnerabilità psicologica, associata a ritmi intensi e pressioni operative;
 - i ruoli Project Manager e Designer registrano livelli inferiori di soddisfazione e produttività, indicando un possibile sovraccarico gestionale o creativo.
 
-# 🧠 Raccomandazioni
+## 🧠 Raccomandazioni
 Per migliorare il benessere organizzativo e le performance, si raccomanda di:
 - Potenziare i programmi di supporto alla salute mentale, garantendo accesso esteso e riservato a tutti i dipendenti.
 - Promuovere modelli di lavoro flessibile, con equilibrio tra lavoro remoto e momenti di collaborazione in presenza.
@@ -151,7 +174,7 @@ Per migliorare il benessere organizzativo e le performance, si raccomanda di:
 - Monitorare costantemente i livelli di stress e soddisfazione, utilizzando dashboard interne basate su indicatori simili a quelli analizzati.
 - Favorire una cultura aziendale orientata al benessere, dove produttività e salute psicologica siano considerati obiettivi complementari.
 
-# ✅ Conclusione
+## ✅ Conclusione
 Il progetto dimostra che investire nel benessere dei dipendenti non è solo una scelta etica, ma anche una leva strategica per migliorare produttività, retention e clima aziendale.
 
 La dashboard e l’analisi dimostrano che il lavoro da remoto non è universalmente positivo. Pur offrendo flessibilità, introduce sfide significative per la salute mentale.
@@ -160,7 +183,7 @@ Un approccio data-driven al monitoraggio del benessere — come quello proposto 
 
 Le organizzazioni che investono in risorse di supporto mentale, programmi di coinvolgimento e strutture di supporto sono meglio posizionate per mantenere soddisfazione e fidelizzazione dei dipendenti nell’era del lavoro remoto.
 
-# ✍️ Autore
+## ✍️ Autore
 
 👤 Antonio Corrado
 
