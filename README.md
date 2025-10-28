@@ -5,6 +5,10 @@
 # 📌 Dataset
 https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health
 
+# 🧰 Strumenti utilizzati
+•	Power BI – per la costruzione del report e la data visualization
+•	Python e Power Query – per la pulizia e trasformazione dei dati
+
 # 📌 Panoramica del Progetto
 Il progetto analizza un dataset, generato dall’intelligenza artificiale, composto da 5.000 dipendenti provenienti da tutto il mondo, con l’obiettivo di esplorare la relazione tra modalità di lavoro e benessere mentale.
 
