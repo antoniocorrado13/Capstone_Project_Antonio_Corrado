@@ -6,9 +6,8 @@
 https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health
 
 # 🧰 Strumenti utilizzati
-•	Power BI – per la costruzione del report e la data visualization
-
-•	Python e Power Query – per la pulizia e trasformazione dei dati
+- Power BI – per la costruzione del report e la data visualization
+- Python e Power Query – per la pulizia e trasformazione dei dati
 
 # 📌 Panoramica del Progetto
 Il progetto analizza un dataset, generato dall’intelligenza artificiale, composto da 5.000 dipendenti provenienti da tutto il mondo, con l’obiettivo di esplorare la relazione tra modalità di lavoro e benessere mentale.
@@ -145,7 +144,9 @@ In particolare:
 Per migliorare il benessere organizzativo e le performance, si raccomanda di:
 - Potenziare i programmi di supporto alla salute mentale, garantendo accesso esteso e riservato a tutti i dipendenti.
 - Promuovere modelli di lavoro flessibile, con equilibrio tra lavoro remoto e momenti di collaborazione in presenza.
+- Implementare controlli frequenti, sessioni virtuali di team building e programmi di mentoring per combattere l'isolamento
 - Ridurre i carichi eccessivi per i ruoli gestionali e creativi, implementando strumenti di delega e time management.
+- Condurre sondaggi trimestrali per monitorare i cambiamenti nei livelli di stress e soddisfazione.
 - Introdurre iniziative di benessere fisico (pause attive, convenzioni sportive, promozione del movimento).
 - Monitorare costantemente i livelli di stress e soddisfazione, utilizzando dashboard interne basate su indicatori simili a quelli analizzati.
 - Favorire una cultura aziendale orientata al benessere, dove produttività e salute psicologica siano considerati obiettivi complementari.
